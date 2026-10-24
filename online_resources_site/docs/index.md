@@ -22,9 +22,13 @@ If you have any questions about Python Crash Course, feel free to get in touch:
 
 Email: [ehmatthes@gmail.com](mailto:ehmatthes@gmail.com)
 
+Mastodon: [@ehmatthes@fosstodon.org](https://fosstodon.org/@ehmatthes)
+
 Bluesky: [@ehmatthes.bsky.social](https://bsky.app/profile/ehmatthes.bsky.social)
 
-Mastodon: [@ehmatthes@fosstodon.org](https://fosstodon.org/@ehmatthes)
+Biweekly newsletter: [Mostly Python](https://www.mostlypython.com)
+
+I'd love to know what you think of *Python Crash Course*! Please consider taking a [brief survey](https://docs.google.com/forms/d/e/1FAIpQLSfiVAFj9SwGKFR6m-SelLcw4jz-0zBmVbLNkE-0j0ktjz6VBg/viewform).
 
 ---
 

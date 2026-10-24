@@ -12,7 +12,10 @@ When looking for updates it’s helpful to know which printing you’re working 
 - [Second printing](second_printing.md)
 - [Third printing](third_printing.md)
 - [Fourth printing](fourth_printing.md)
+- [Fifth printing](fifth_printing.md)
+- [Sixth printing](sixth_printing.md)
+- [Seventh printing](seventh_printing.md)
 
 ---
 
-If you find an error in the book or can’t get something to work, please let me know! You can reach me through email at ehmatthes@gmail.com, on Mastodon at [fosstodon.org/@ehmatthes](https://fosstodon.org/@ehmatthes) or on Twitter at [@ehmatthes](https://twitter.com/ehmatthes).
+If you find an error in the book or can’t get something to work, please let me know! You can reach me through email at ehmatthes@gmail.com, on Mastodon at [@ehmatthes@fosstodon.org](https://fosstodon.org/@ehmatthes) or on Bluesky at [@ehmatthes.bsky.social](https://bsky.app/profile/ehmatthes.bsky.social).
